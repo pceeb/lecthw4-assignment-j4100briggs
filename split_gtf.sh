@@ -6,3 +6,5 @@
 grep -P "chr2\t" hg19.gtf > chr2_gtf
 grep -P "chr3\t" hg19.gtf > chr3_gtf
 grep -P "chr21\t" hg19.gtf > chr21_gtf
+
+# This script does **Not** create individual directories 
